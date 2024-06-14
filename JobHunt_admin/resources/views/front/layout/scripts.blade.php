@@ -1,0 +1,13 @@
+<script src="{{ asset('dist_front/js/jquery-3.6.1.min.js') }}"></script>
+        <script src="{{ asset('dist_front/js/bootstrap.min.js ') }}"></script>
+        <script src="{{ asset('dist_front/js/bootstrap-datepicker.min.js') }}"></script>
+        <!--<script src="{{ asset('dist_front/js/jquery-ui.js') }}"></script>-->
+        <script src="{{ asset('dist_front/js/jquery.magnific-popup.min.js') }}"></script>
+        <script src="{{ asset('dist_front/js/owl.carousel.min.js') }}"></script>
+        <script src="{{ asset('dist_front/js/wow.min.js') }}"></script>
+        <script src="{{ asset('dist_front/js/select2.full.js') }}"></script>
+        <script src="{{ asset('dist_front/js/jquery.waypoints.min.js') }}"></script>
+        <script src="{{ asset('dist_front/js/moment.min.js') }}"></script>
+        <script src="{{ asset('dist_front/js/jquery.meanmenu.js') }}"></script>
+        <script src="{{ asset('dist_front/js/iziToast.min.js') }}"></script>
+        <script src="{{ asset('dist_front/tinymce/tinymce.min.js') }}"></script>
